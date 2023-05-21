@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12a3030c1f0831d42a0cd42fcf53abeb, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: TownHallParent
+    <ID>k__BackingField: 0
+    <size>k__BackingField: {x: 3, y: 3}
+    <prefab>k__BackingField: {fileID: 2884386691791415804, guid: 0c66d3388b8531241a5ed02992507773,
+      type: 3}
+    <coinPrice>k__BackingField: 0
+  - <Name>k__BackingField: DrillParent
+    <ID>k__BackingField: 1
+    <size>k__BackingField: {x: 2, y: 2}
+    <prefab>k__BackingField: {fileID: 3365386981285742062, guid: 861ca05cd9438b24cb1a8712dda6d915,
+      type: 3}
+    <coinPrice>k__BackingField: 200
+  - <Name>k__BackingField: GoldStorageParent
+    <ID>k__BackingField: 2
+    <size>k__BackingField: {x: 3, y: 2}
+    <prefab>k__BackingField: {fileID: 2660348553720150958, guid: fa843579a3ea7bb4fb69a3b216ef6755,
+      type: 3}
+    <coinPrice>k__BackingField: 100
+  - <Name>k__BackingField: ArcherTower
+    <ID>k__BackingField: 3
+    <size>k__BackingField: {x: 1, y: 1}
+    <prefab>k__BackingField: {fileID: 8416828595991165263, guid: cc477e75ac546f94bb3818affb81767a,
+      type: 3}
+    <coinPrice>k__BackingField: 150
+  - <Name>k__BackingField: BarracksParent
+    <ID>k__BackingField: 4
+    <size>k__BackingField: {x: 2, y: 2}
+    <prefab>k__BackingField: {fileID: 4799293506434184065, guid: e90be22e74941a543913fc6d9eb71361,
+      type: 3}
+    <coinPrice>k__BackingField: 300
+  - <Name>k__BackingField: TownHallParent
+    <ID>k__BackingField: 5
+    <size>k__BackingField: {x: 3, y: 3}
+    <prefab>k__BackingField: {fileID: 2884386691791415804, guid: 0c66d3388b8531241a5ed02992507773,
+      type: 3}
+    <coinPrice>k__BackingField: 500
+  - <Name>k__BackingField: CanonParent
+    <ID>k__BackingField: 6
+    <size>k__BackingField: {x: 2, y: 2}
+    <prefab>k__BackingField: {fileID: 4467174215157044337, guid: b4433dde850271943bd0089d77eee9c2,
+      type: 3}
+    <coinPrice>k__BackingField: 100

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20db3e420bbbaff489bad79b7af05d10, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  characterData:
+  - <Name>k__BackingField: AxeSolder
+    <ID>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 7445902763557901053, guid: c6dbaf52ee3662d488b6928a6c5f2a22,
+      type: 3}
+    <coinCost>k__BackingField: 100
+  - <Name>k__BackingField: GiantSolder
+    <ID>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 5232233936651237001, guid: 9d5dfed5f9540564fba92d242ff1e5d6,
+      type: 3}
+    <coinCost>k__BackingField: 100
+  - <Name>k__BackingField: MelleSolder
+    <ID>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 9054507392243041923, guid: 0b69301ee22731c4ebc623046e79faeb,
+      type: 3}
+    <coinCost>k__BackingField: 150
